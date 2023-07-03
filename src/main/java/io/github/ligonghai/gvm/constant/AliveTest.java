@@ -29,19 +29,19 @@ public enum AliveTest implements Serializable {
      */
     ARP_PING(5, "ARP Ping"),
     /**
-     * ICMP & TCP-ACK Service Ping
+     * ICMP and TCP-ACK Service Ping
      */
     ICMP_TCP_ACK_SERVICE_PING(6, "ICMP & TCP-ACK Service Ping"),
     /**
-     * ICMP & ARP Ping
+     * ICMP and ARP Ping
      */
     ICMP_ARP_PING(7, "ICMP & ARP Ping"),
     /**
-     * TCP-ACK Service & ARP Ping
+     * TCP-ACK Service  and ARP Ping
      */
     TCP_ACK_SERVICE_ARP_PING(8, "TCP-ACK Service & ARP Ping"),
     /**
-     * ICMP, TCP-ACK Service & ARP Ping
+     * ICMP, TCP-ACK Service and ARP Ping
      */
     ICMP_TCP_ACK_SERVICE_ARP_PING(9, "ICMP, TCP-ACK Service & ARP Ping"),
     /**

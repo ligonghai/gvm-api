@@ -4,7 +4,7 @@
 
     <groupId>io.github.ligonghai</groupId>
     <artifactId>gvm-api</artifactId>
-    <version>1.0</version>
+    <version>1.0.1</version>
 
     <name>gvm-api</name>
     <description>gvm java api</description>

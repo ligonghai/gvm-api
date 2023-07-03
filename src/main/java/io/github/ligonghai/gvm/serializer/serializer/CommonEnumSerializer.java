@@ -7,6 +7,9 @@ import io.github.ligonghai.gvm.serializer.Serializable;
 
 import java.io.IOException;
 
+/**
+ * @author ligonghai
+ */
 public class CommonEnumSerializer extends JsonSerializer<Serializable> {
 
     @Override

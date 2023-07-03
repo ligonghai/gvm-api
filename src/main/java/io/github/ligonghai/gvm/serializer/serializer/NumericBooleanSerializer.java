@@ -7,6 +7,9 @@ import com.fasterxml.jackson.databind.SerializerProvider;
 import java.io.IOException;
 import java.util.Objects;
 
+/**
+ * @author ligonghai
+ */
 public class NumericBooleanSerializer extends JsonSerializer<Boolean> {
 
     @Override

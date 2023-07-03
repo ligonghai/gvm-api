@@ -85,8 +85,6 @@ public abstract class BasePageResponse<T extends BasePageResponse.BaseItem> exte
         @JacksonXmlProperty(localName = "status_text", isAttribute = true)
         private String statusText;
 
-        public abstract PageInfo getPageInfo();
-
     }
 
     @Data
